@@ -1,6 +1,8 @@
 # Data Analyst
 
 ### Technical Skills: SQl, Microsoft Excel, Python, Power Bi, Tableau
+
+
 ### Education
 University of Benin, Benin, Edo State - B.SC Computer Science SEPTEMBER 2015 - MAY 2019
 
