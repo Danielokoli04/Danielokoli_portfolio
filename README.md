@@ -14,7 +14,7 @@ University of Benin, Benin, Edo State - B.SC Computer Science SEPTEMBER 2015 - M
 
 
 ### Work Experience
-####EXPERIENCE
+#### EXPERIENCE
 Droid Technologies Nigeria, Lagos State- Data Analyst MARCH 2023 - PRESENT
 ● Extracted and transformed data from multiple sources using SQL and Excel to support performance tracking and strategic planning.
 ● Delivered interactive dashboards and analytical reports used by senior management to guide key business initiatives.
