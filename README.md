@@ -1,5 +1,11 @@
 # Data Analyst
 
+## About Me
+I’m a results-focused Data Analyst who thrives on turning raw, messy data into clear insights and practical solutions. With a strong command of SQL, Advanced Excel, Power BI, and Python, I specialize in cleaning datasets, identifying trends, and building dashboards that bring clarity to complex problems.
+My goal? To help teams see beyond the numbers—spotting what matters, why it matters, and how to act on it. I’ve worked across different areas, from performance tracking and business operations to product and process analysis. What makes my work stand out is my ability to translate deep analysis into stories that non-technical teams can understand and act on.
+I don’t stop at delivering reports. I ask the right questions, uncover hidden issues, and turn insights into real impact. Whether it’s improving accuracy, streamlining reporting, or identifying missed opportunities, I bring structure and purpose to every dataset I touch.
+I’m open to remote and freelance roles around the world and especially excited to work with teams that believe in data as a driver for smart, timely decisions.
+
 ### Technical Skills: SQl, Microsoft Excel, Python, Power Bi, Tableau
 
 
@@ -8,7 +14,7 @@ University of Benin, Benin, Edo State - B.SC Computer Science SEPTEMBER 2015 - M
 
 
 ### Work Experience
-EXPERIENCE
+####EXPERIENCE
 Droid Technologies Nigeria, Lagos State- Data Analyst MARCH 2023 - PRESENT
 ● Extracted and transformed data from multiple sources using SQL and Excel to support performance tracking and strategic planning.
 ● Delivered interactive dashboards and analytical reports used by senior management to guide key business initiatives.
