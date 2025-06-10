@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="/assets/img/Whatsapp_image.jpeg" alt="Daniel Okoli Logo" width="150" style="border-radius: 10px;" />
-</p>
 
 # Data Analyst
 
