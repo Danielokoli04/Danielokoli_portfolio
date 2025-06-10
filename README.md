@@ -29,3 +29,14 @@ NOVEMBER 2019 - FEBRUARY 2023
 - Built Excel tools for business modeling and performance tracking across departments.
 - Ensured data quality by implementing validation protocols in data entry and reporting processes.
 
+
+### Certificates
+Google Business Intelligence Professional Certificate - Online JANUARY 2024 - JUNE 2024
+
+IBM Business Analyst professional Certificate - Online DECEMBER 2024 - APRIL 2025
+
+
+
+
+
+
