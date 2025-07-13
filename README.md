@@ -27,7 +27,7 @@ Droid Technologies Nigeria, Lagos State- Data Analyst APRIL 2023 - PRESENT
 - Led intern training programs on business tools and performance tracking, achieving a 95% project completion rate.
 
 Guinness Nigeria, Lagos State - Data Analyst Intern (Data Operations)
-APRIL 2022 - FEBRUARY 2023
+APRIL 2022 - MARCH 2023
 - Built Excel tools for business modeling and performance tracking across departments.
 - Ensured data quality by implementing validation protocols in data entry and reporting processes.
 
