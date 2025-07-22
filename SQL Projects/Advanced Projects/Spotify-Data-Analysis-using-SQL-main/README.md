@@ -107,7 +107,7 @@ ORDER BY 2 DESC
 6. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
 
 
-**Check the Spotify Project.sql file for querry answers for all question
+### Check the Spotify Project.sql file for querry answers for all question
 
 ---
 
