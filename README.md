@@ -21,7 +21,16 @@ University of Benin, Benin, Edo State - B.SC Computer Science SEPTEMBER 2015 - M
 
 ### Work Experience
 #### EXPERIENCE
-Droid Technologies Nigeria, Lagos State- Data Analyst APRIL 2023 - PRESENT
+ZILLA CLINICALS LLC, ATLANTA, USA, REMOTE — DATABASE PROGRAMMER III Jul 2025 - Present
+- Performed comprehensive data review and reconciliation in SAS, ensuring accuracy, consistency, and adherence to clinical data standards.
+- Supported the design and build of Zilla-based Electronic Data Capture (EDC) systems, including form creation, field configuration, and validation checks.
+- Worked extensively with Medidata Rave for database builds, data extraction, and clinical data management workflows.
+- Generated and validated custom SAS listings, reports, and summaries to support data review and clinical trial deliverables.
+- Collaborated effectively with a diverse, remote U.S.-based team, maintaining seamless communication and workflow across multiple time zones.
+- Performed routine data cleaning and quality checks to ensure datasets were audit-ready and aligned with study requirements.
+- Extracted and transformed clinical data for downstream analysis and reporting using SAS and SQL.
+
+Droid Technologies Nigeria, Lagos State- Data Analyst APRIL 2023 - Jun 2025
 - Extracted and transformed data from multiple sources using SQL and Excel to support performance tracking and strategic planning.
 - Delivered interactive dashboards and analytical reports used by senior management to guide key business initiatives.
 - Filtered and validated large datasets by reviewing KPIs and reports to identify inconsistencies, coding errors, and anomalies.
